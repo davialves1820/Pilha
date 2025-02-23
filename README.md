@@ -29,7 +29,7 @@ make
 ---
 
 ## 🔧 Funcionalidades
-O programa permite realizar as seguintes operações na lista sequencial:
+O programa permite realizar as seguintes operações na pilha:
 - Criar uma lista.
 - Obter o tamanho atual da lista.
 - Inserir um novo valor no topo da pilha.
